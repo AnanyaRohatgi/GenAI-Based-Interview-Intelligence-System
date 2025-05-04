@@ -1,5 +1,5 @@
 Flask==2.3.2
-Flask-CORS==3.1.1
+Flask-CORS==3.0.10
 openai==0.27.0
 moviepy==1.0.3
 numpy==1.24.3
