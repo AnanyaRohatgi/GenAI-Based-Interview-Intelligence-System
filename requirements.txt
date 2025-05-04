@@ -3,8 +3,8 @@ Flask-CORS==3.0.10
 openai==0.27.0
 moviepy==1.0.3
 numpy==1.24.3
-opencv-python==4.8.0.74
-mediapipe==0.9.3.1
+opencv-python-headless==4.8.0.74  # Use headless version for compatibility
+mediapipe==0.10.21  # Latest stable version for Python 3.11
 librosa==0.10.0
 fpdf==1.7.2
 requests==2.31.0
